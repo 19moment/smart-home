@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "data_global.h": "c",
+        "uart.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+cmd_/home/fengjunhui/securitymonitor/webled/armledtest/demo.ko := arm-linux-ld -EL -r  -T /home/fengjunhui/kernel/linux-3.14/scripts/module-common.lds --build-id  -o /home/fengjunhui/securitymonitor/webled/armledtest/demo.ko /home/fengjunhui/securitymonitor/webled/armledtest/demo.o /home/fengjunhui/securitymonitor/webled/armledtest/demo.mod.o
